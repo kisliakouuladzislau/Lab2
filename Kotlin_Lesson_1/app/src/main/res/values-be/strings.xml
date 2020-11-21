@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin_Lesson_1</string>
+    <string name="button">Націскалка</string>
+    <string name="_0">0</string>
+    <string name="input">Увод</string>
+    <string name="mainactivity">MainActivity</string>
+</resources>
